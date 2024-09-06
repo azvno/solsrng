@@ -1,2 +1,2 @@
-# solsrng
-This script generates a Forms based on given probabilities
+# Sol's RNG (Version Python)
+* This script generates a Forms based on given probabilities
